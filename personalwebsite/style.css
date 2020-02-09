@@ -1,0 +1,11 @@
+
+* {
+  box-sizing: border-box;
+}
+  body {
+    display: flex;
+    background-color: rgba(115, 156, 194, 0.664);
+  }
+main {
+  background-color: rgba(115, 156, 194, 0.664);
+}
