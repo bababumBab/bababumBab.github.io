@@ -1,0 +1,1710 @@
+.mediaViewInfo {
+  --web-view-name: GA-Home-Full-Hero;
+  --web-view-id: GA_Home_Full_Hero;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: fit;
+  --web-enable-scale-up: true;
+  --web-scale-on-resize: true;
+  --web-navigate-on-keypress: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: GA_Home_Full_Hero;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#GA_Home_Full_Hero {
+  position: absolute;
+  width: 1290px;
+  height: 1457px;
+  background-color: #f7f9f9;
+  overflow: hidden;
+  --web-view-name: GA-Home-Full-Hero;
+  --web-view-id: GA_Home_Full_Hero;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: fit;
+  --web-enable-scale-up: true;
+  --web-scale-on-resize: true;
+  --web-navigate-on-keypress: true;
+  --web-enable-deep-linking: true;
+}
+#Hero_Image {
+  position: absolute;
+  width: 1920px;
+  height: 720px;
+  left: -271px;
+  top: 0px;
+  overflow: visible;
+}
+#Rectangle_1 {
+  opacity: 0.997;
+}
+.Rectangle_1 {
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 720px;
+  left: 0px;
+  top: 0px;
+}
+#sannah_vinding_VZxmuCgRH3c_uns {
+  opacity: 0.06;
+  position: absolute;
+  width: 960px;
+  height: 720px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#sannah_vinding_VZxmuCgRH3c_uns_n {
+  opacity: 0.06;
+  position: absolute;
+  width: 960px;
+  height: 720px;
+  left: 960px;
+  top: 0px;
+  overflow: visible;
+}
+#Rectangle_2_p {
+  opacity: 0.082;
+}
+.Rectangle_2_p {
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 720px;
+  left: 0px;
+  top: 0px;
+}
+#Hero_Text {
+  position: absolute;
+  width: 425px;
+  height: 265px;
+  left: 468px;
+  top: 228px;
+  overflow: visible;
+}
+#Logo {
+  position: absolute;
+  width: 196px;
+  height: 88px;
+  left: 114px;
+  top: 133px;
+  overflow: visible;
+}
+#Antonica {
+  position: absolute;
+  width: 196px;
+  height: 48px;
+  left: 0px;
+  top: 40px;
+  overflow: visible;
+}
+#A {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  width: 25px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #f7f9f9;
+}
+#N {
+  position: absolute;
+  left: 26px;
+  top: 0px;
+  overflow: visible;
+  width: 29px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #f7f9f9;
+}
+#T {
+  position: absolute;
+  left: 56px;
+  top: 0px;
+  overflow: visible;
+  width: 21px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #f7f9f9;
+}
+#O {
+  position: absolute;
+  left: 77px;
+  top: 0px;
+  overflow: visible;
+  width: 27px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #f7f9f9;
+}
+#N_x {
+  position: absolute;
+  left: 104px;
+  top: 0px;
+  overflow: visible;
+  width: 29px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #f7f9f9;
+}
+#I {
+  position: absolute;
+  left: 134px;
+  top: 0px;
+  overflow: visible;
+  width: 13px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #f7f9f9;
+}
+#C {
+  position: absolute;
+  left: 148px;
+  top: 0px;
+  overflow: visible;
+  width: 22px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #f7f9f9;
+}
+#A_ {
+  position: absolute;
+  left: 172px;
+  top: 0px;
+  overflow: visible;
+  width: 25px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #f7f9f9;
+}
+#Gabriel {
+  position: absolute;
+  width: 160px;
+  height: 48px;
+  left: 18px;
+  top: 0px;
+  overflow: visible;
+}
+#G {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  width: 25px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #f7f9f9;
+}
+#A_ba {
+  position: absolute;
+  left: 27px;
+  top: 0px;
+  overflow: visible;
+  width: 25px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #f7f9f9;
+}
+#B {
+  position: absolute;
+  left: 53px;
+  top: 0px;
+  overflow: visible;
+  width: 24px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #f7f9f9;
+}
+#R {
+  position: absolute;
+  left: 78px;
+  top: 0px;
+  overflow: visible;
+  width: 25px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #f7f9f9;
+}
+#I_ {
+  position: absolute;
+  left: 104px;
+  top: 0px;
+  overflow: visible;
+  width: 13px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #f7f9f9;
+}
+#E {
+  position: absolute;
+  left: 118px;
+  top: 0px;
+  overflow: visible;
+  width: 21px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #f7f9f9;
+}
+#L {
+  position: absolute;
+  left: 143px;
+  top: 0px;
+  overflow: visible;
+  width: 18px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: #f7f9f9;
+}
+#Icon_5_way {
+  position: absolute;
+  width: 68px;
+  height: 128px;
+  left: 178px;
+  top: 0px;
+  overflow: visible;
+}
+#G_ba {
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  overflow: visible;
+  width: 61px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 100px;
+  color: #f7f9f9;
+}
+#G_bb {
+  position: absolute;
+  left: 8px;
+  top: 8px;
+  overflow: visible;
+  width: 61px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 100px;
+  color: #f7f9f9;
+}
+#G_bc {
+  position: absolute;
+  left: 8px;
+  top: 0px;
+  overflow: visible;
+  width: 61px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 100px;
+  color: #f7f9f9;
+}
+#G_bd {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  width: 61px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 100px;
+  color: #f7f9f9;
+}
+#G_be {
+  position: absolute;
+  left: 0px;
+  top: 8px;
+  overflow: visible;
+  width: 61px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 100px;
+  color: #f7f9f9;
+}
+#Technical_Project_Manager___Ju {
+  position: absolute;
+  left: 0px;
+  top: 241px;
+  overflow: visible;
+  width: 426px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: #f7f9f9;
+}
+#Nav_bar {
+  position: absolute;
+  width: 827px;
+  height: 24px;
+  left: 283px;
+  top: 679px;
+  overflow: visible;
+}
+#ABOUT {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  width: 68px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: #f7f9f9;
+  letter-spacing: 1px;
+}
+#PROJECTS {
+  position: absolute;
+  left: 543px;
+  top: 0px;
+  overflow: visible;
+  width: 97px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: #f7f9f9;
+  letter-spacing: 1px;
+}
+#CONTACT {
+  position: absolute;
+  left: 737px;
+  top: 0px;
+  overflow: visible;
+  width: 91px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: #f7f9f9;
+  letter-spacing: 1px;
+}
+#PROFFESIONAL_EXPERIENCE {
+  position: absolute;
+  left: 165px;
+  top: 0px;
+  overflow: visible;
+  width: 281px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: #f7f9f9;
+  letter-spacing: 1px;
+}
+#About_Content {
+  position: absolute;
+  width: 885px;
+  height: 535px;
+  left: 225px;
+  top: 824px;
+  overflow: visible;
+}
+#Dedicated_professional_with_ex {
+  position: absolute;
+  left: 240px;
+  top: 70px;
+  overflow: visible;
+  width: 646px;
+  height: 465px;
+  line-height: 25px;
+  margin-top: -3.5px;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#About_Title {
+  position: absolute;
+  width: 139.612px;
+  height: 48px;
+  left: 253.388px;
+  top: 0px;
+  overflow: visible;
+}
+#About {
+  position: absolute;
+  left: 36.612px;
+  top: 0px;
+  overflow: visible;
+  width: 104px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: #6e8387;
+  letter-spacing: 0.5px;
+}
+#Hint_logo {
+  position: absolute;
+  width: 24.173px;
+  height: 18.184px;
+  left: 0px;
+  top: 15px;
+  overflow: visible;
+}
+.Line_5 {
+  overflow: visible;
+  position: absolute;
+  width: 1px;
+  height: 24px;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 13.0865, 1.5922)
+    rotate(67.5deg);
+  transform-origin: center;
+  left: 0px;
+  top: 0px;
+}
+.Line_2 {
+  overflow: visible;
+  position: absolute;
+  width: 1px;
+  height: 24px;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 12, -3) rotate(90deg);
+  transform-origin: center;
+  left: 0px;
+  top: 0px;
+}
+.Line_4 {
+  overflow: visible;
+  position: absolute;
+  width: 1px;
+  height: 24px;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 13.0866, -7.4078)
+    rotate(-67.5deg);
+  transform-origin: center;
+  left: 0px;
+  top: 0px;
+}
+#Headshot {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  left: 0px;
+  top: 11px;
+  overflow: visible;
+}
+.mediaViewInfo {
+  --web-view-name: GA-About-Sticky-Head;
+  --web-view-id: GA_About_Sticky_Head;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: GA_About_Sticky_Head;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#GA_About_Sticky_Head {
+  position: absolute;
+  width: 1290px;
+  height: 1457px;
+  background-color: #f7f9f9;
+  overflow: hidden;
+  --web-view-name: GA-About-Sticky-Head;
+  --web-view-id: GA_About_Sticky_Head;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+#Skills_Content {
+  position: absolute;
+  width: 626px;
+  height: 436px;
+  left: 625px;
+  top: 980px;
+  overflow: visible;
+}
+#Skill {
+  position: absolute;
+  width: 626px;
+  height: 358px;
+  left: 0px;
+  top: 78px;
+  overflow: hidden;
+}
+#Skill_b {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 1px;
+  top: 0px;
+  overflow: visible;
+}
+.Rectangle_5 {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_ca {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 131px;
+  top: 0px;
+  overflow: visible;
+}
+.Rectangle_5_b {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_b {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_cb {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 261px;
+  top: 0px;
+  overflow: visible;
+}
+.Rectangle_5_ca {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_ca {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_cc {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 391px;
+  top: 0px;
+  overflow: visible;
+}
+.Rectangle_5_cb {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_cc {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_cd {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 521px;
+  top: 0px;
+  overflow: visible;
+}
+.Rectangle_5_ce {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_cf {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_cg {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 1px;
+  top: 93px;
+  overflow: visible;
+}
+.Rectangle_5_ch {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_ci {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_cj {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 131px;
+  top: 93px;
+  overflow: visible;
+}
+.Rectangle_5_ck {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_cl {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_cm {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 261px;
+  top: 93px;
+  overflow: visible;
+}
+.Rectangle_5_cn {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_co {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_cp {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 391px;
+  top: 93px;
+  overflow: visible;
+}
+.Rectangle_5_cq {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_cr {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_cs {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 521px;
+  top: 93px;
+  overflow: visible;
+}
+.Rectangle_5_ct {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_cu {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_cv {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 1px;
+  top: 186px;
+  overflow: visible;
+}
+.Rectangle_5_cw {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_cx {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_cy {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 131px;
+  top: 186px;
+  overflow: visible;
+}
+.Rectangle_5_cz {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_c {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_c {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 261px;
+  top: 186px;
+  overflow: visible;
+}
+.Rectangle_5_c {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_da {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_da {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 391px;
+  top: 186px;
+  overflow: visible;
+}
+.Rectangle_5_da {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_db {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_db {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 521px;
+  top: 186px;
+  overflow: visible;
+}
+.Rectangle_5_db {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_dc {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_dc {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 1px;
+  top: 279px;
+  overflow: visible;
+}
+.Rectangle_5_dc {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_dd {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_dd {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 131px;
+  top: 279px;
+  overflow: visible;
+}
+.Rectangle_5_de {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_df {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_dg {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 261px;
+  top: 279px;
+  overflow: visible;
+}
+.Rectangle_5_dh {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_di {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_dj {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 391px;
+  top: 279px;
+  overflow: visible;
+}
+.Rectangle_5_dk {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_dl {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skill_dm {
+  position: absolute;
+  width: 68px;
+  height: 73px;
+  left: 521px;
+  top: 279px;
+  overflow: visible;
+}
+.Rectangle_5_dn {
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  height: 48px;
+  left: 10px;
+  top: 0px;
+}
+#Language_do {
+  position: absolute;
+  left: 0px;
+  top: 52px;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#Skills_Title {
+  position: absolute;
+  width: 124.5px;
+  height: 48px;
+  left: 1.5px;
+  top: 0px;
+  overflow: visible;
+}
+#Skills {
+  position: absolute;
+  left: 36.5px;
+  top: 0px;
+  overflow: visible;
+  width: 89px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: #6e8387;
+  letter-spacing: 0.5px;
+}
+#Hint_logo {
+  position: absolute;
+  width: 24px;
+  height: 18px;
+  left: 0px;
+  top: 15.5px;
+  overflow: visible;
+}
+.Line_5 {
+  overflow: visible;
+  position: absolute;
+  width: 25.591px;
+  height: 11.591px;
+  left: 1px;
+  top: 9px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Line_2 {
+  overflow: visible;
+  position: absolute;
+  width: 26px;
+  height: 2px;
+  left: 0px;
+  top: 9px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Line_4 {
+  overflow: visible;
+  position: absolute;
+  width: 24.608px;
+  height: 11.608px;
+  left: 2px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#About_Content {
+  position: absolute;
+  width: 1189px;
+  height: 440px;
+  left: 62px;
+  top: 98px;
+  overflow: visible;
+}
+#I_am_an_ACTIVATOR___When_can_w {
+  position: absolute;
+  left: 243px;
+  top: 62px;
+  overflow: hidden;
+  width: 947px;
+  height: 378px;
+  line-height: 25px;
+  margin-top: -3.5px;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #6e8387;
+}
+#About_Title {
+  position: absolute;
+  width: 140.456px;
+  height: 48px;
+  left: 245.544px;
+  top: 0px;
+  overflow: visible;
+}
+#About {
+  position: absolute;
+  left: 37.456px;
+  top: 0px;
+  overflow: visible;
+  width: 104px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: #6e8387;
+  letter-spacing: 0.5px;
+}
+#Hint_logo_dz {
+  position: absolute;
+  width: 24px;
+  height: 18px;
+  left: 0px;
+  top: 15.5px;
+  overflow: visible;
+}
+.Line_5_d {
+  overflow: visible;
+  position: absolute;
+  width: 24.608px;
+  height: 11.608px;
+  left: 2px;
+  top: 9px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Line_2_d {
+  overflow: visible;
+  position: absolute;
+  width: 26px;
+  height: 2px;
+  left: 0px;
+  top: 9px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Line_4_d {
+  overflow: visible;
+  position: absolute;
+  width: 24.608px;
+  height: 11.608px;
+  left: 2px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Headshot {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  left: 0px;
+  top: 12px;
+  overflow: visible;
+}
+#Header {
+  position: absolute;
+  width: 1290px;
+  height: 86px;
+  left: 0px;
+  top: -3px;
+  overflow: visible;
+}
+#Mask_Group_1 {
+  position: absolute;
+  width: 1290px;
+  height: 80px;
+  left: 0px;
+  top: 3px;
+  overflow: visible;
+}
+#GA_icon_5_way_2x {
+  position: absolute;
+  width: 46px;
+  height: 86px;
+  left: 37px;
+  top: 0px;
+  overflow: visible;
+}
+#Nav_bar {
+  position: absolute;
+  width: 653px;
+  height: 26px;
+  left: 606px;
+  top: 31px;
+  overflow: visible;
+}
+.Rectangle_3 {
+  position: absolute;
+  overflow: visible;
+  width: 30px;
+  height: 2px;
+  left: 19px;
+  top: 24px;
+}
+#ABOUT {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  width: 68px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: #f7f9f9;
+  letter-spacing: 1px;
+}
+#PROJECTS {
+  position: absolute;
+  left: 427px;
+  top: 0px;
+  overflow: visible;
+  width: 97px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: #f7f9f9;
+  letter-spacing: 1px;
+}
+#CONTACT {
+  position: absolute;
+  left: 563px;
+  top: 0px;
+  overflow: visible;
+  width: 91px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: #f7f9f9;
+  letter-spacing: 1px;
+}
+#PROFFESIONAL_EXPERIENCE {
+  position: absolute;
+  left: 107px;
+  top: 0px;
+  overflow: visible;
+  width: 281px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: #f7f9f9;
+  letter-spacing: 1px;
+}
+#Skills_Content_ek {
+  position: absolute;
+  width: 326.052px;
+  height: 372.798px;
+  left: 625px;
+  top: 562px;
+  overflow: visible;
+}
+#Skills_Title_el {
+  position: absolute;
+  width: 310.052px;
+  height: 45px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Area_of_Expertise {
+  position: absolute;
+  left: 37.052px;
+  top: 0px;
+  overflow: visible;
+  width: 274px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 38px;
+  color: #6e8387;
+  letter-spacing: 0.5px;
+}
+#Hint_logo_en {
+  position: absolute;
+  width: 24.173px;
+  height: 18.184px;
+  left: 0px;
+  top: 15px;
+  overflow: visible;
+}
+.Line_5_eo {
+  overflow: visible;
+  position: absolute;
+  width: 1px;
+  height: 24px;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 13.0865, 1.5922)
+    rotate(67.5deg);
+  transform-origin: center;
+  left: 0px;
+  top: 0px;
+}
+.Line_2_ep {
+  overflow: visible;
+  position: absolute;
+  width: 1px;
+  height: 24px;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 12, -3) rotate(90deg);
+  transform-origin: center;
+  left: 0px;
+  top: 0px;
+}
+.Line_4_eq {
+  overflow: visible;
+  position: absolute;
+  width: 1px;
+  height: 24px;
+  transform: translate(0px, 0px) matrix(1, 0, 0, 1, 13.0866, -7.4078)
+    rotate(-67.5deg);
+  transform-origin: center;
+  left: 0px;
+  top: 0px;
+}
+#Group_2 {
+  position: absolute;
+  width: 307px;
+  height: 290.153px;
+  left: 19.052px;
+  top: 82.645px;
+  overflow: visible;
+}
+#Component_1___1 {
+  position: absolute;
+  width: 307px;
+  height: 290.153px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Project_Management__Software_D {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+  width: 308px;
+  height: 290.153px;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: #707070;
+}
+#Skills_Content_eu {
+  position: absolute;
+  width: 382.5px;
+  height: 812px;
+  left: 62.5px;
+  top: 562px;
+  overflow: visible;
+}
+#Skills_Title_ev {
+  position: absolute;
+  width: 242.5px;
+  height: 98px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Education___Credentials {
+  position: absolute;
+  left: 30.5px;
+  top: 0px;
+  overflow: visible;
+  width: 213px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Alegreya Sans;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 41px;
+  color: #6e8387;
+  letter-spacing: 0.5px;
+}
+#Hint_logo_ex {
+  position: absolute;
+  width: 24px;
+  height: 19px;
+  left: 0px;
+  top: 15.5px;
+  overflow: visible;
+}
+.Line_5_ey {
+  overflow: visible;
+  position: absolute;
+  width: 25.632px;
+  height: 12.632px;
+  left: 1px;
+  top: 9px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Line_2_ez {
+  overflow: visible;
+  position: absolute;
+  width: 26px;
+  height: 2px;
+  left: 0px;
+  top: 9px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Line_4_e {
+  overflow: visible;
+  position: absolute;
+  width: 24.648px;
+  height: 12.648px;
+  left: 2px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#______Certificates_and_Trainin {
+  position: absolute;
+  left: 5.5px;
+  top: 117px;
+  overflow: hidden;
+  width: 378px;
+  height: 695px;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: #707070;
+}
+#Skills_Content_e {
+  position: absolute;
+  width: 276px;
+  height: 152px;
+  left: 975px;
+  top: 644px;
+  overflow: visible;
+}
+#Group_1 {
+  position: absolute;
+  width: 276px;
+  height: 152px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Software_Development_Object_Or {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+  width: 277px;
+  height: 152px;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: #707070;
+}
+#Skills_Content_fa {
+  position: absolute;
+  width: 276px;
+  height: 145px;
+  left: 975px;
+  top: 811px;
+  overflow: visible;
+}
+#Group_1_e {
+  position: absolute;
+  width: 276px;
+  height: 145px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Visual_Studio_Code_Insomnia_Ta {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+  width: 277px;
+  height: 145px;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: #707070;
+}
